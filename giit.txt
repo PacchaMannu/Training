@@ -1,7 +1,7 @@
 QA - VIM & LINUX BASICS
 
 1:  Write the linux command to switch another user. 
-    -   <ANSWER HERE>
+        sudo -iu user
 
 2:  Write the linux command to create a new user. 
     -   <ANSWER HERE>
