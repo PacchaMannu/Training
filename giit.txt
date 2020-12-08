@@ -19,9 +19,8 @@ QA - VIM & LINUX BASICS
 6:  Write the linux command to change permission of a file with all rights to owner, read & excecute rights to group and read right alone to others. 
     -  chmod 754 filename
 
-
-    - sudo -iu <username>
-
+***********
+   
 2:  Write the linux command to create a new user. 
     - sudo adduser  <username> 
 3:  Write the linux command to create a new group. 
@@ -48,5 +47,4 @@ QA - VIM & LINUX BASICS
 
     - #,# s/old/new/g   
 
-    - #,#s/old/new/g
-
+   
